@@ -4,6 +4,11 @@
  * @subpackage Commands
  */
 
+Beware the one who will kill god
+	
+	
+	
+
 require_once "WebRequest.class.php";
 
 /**
