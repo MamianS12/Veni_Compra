@@ -35,6 +35,8 @@ git checkout "nombre de la rama master o otra" :para poder cambiar ala rama mast
 ---------------------------------------
 git add . :para poder meter todo los archivos y no solo en 1 por 1 
 ----------------------------------------
+git remote add origin https://github.com/evolunnner/dsdd.git :para poder que el git sepa cual es el repositorio de hithub
+----------------------------------------
 git push -u origin master :para poder colocarlo en el repositorio de hithub
 -----------------------------------------
 git pull :
