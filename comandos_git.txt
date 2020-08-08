@@ -25,9 +25,17 @@ git diff INDEX.HTML :o el nombre del archivo, sirve para ver que se a cambiado o
 -------------------------------------------
 git log : para mirar que version del programa esta y cuando se realizo los cambios
 -------------------------------------------
-git commit -m "algun comentario" :sirve para ponerle algun comentario al commit
+git commit -m "algun comentario" :sirve para ponerle algun comentario al commit y no entrar al editor e igual guardar
 -----------------------------------------
-git push :
+git branch "nombre de la rama secundaria" 
+
+:para poder estar en alguna rama secundaria y no la master
+
+git checkout "nombre de la rama master o otra" :para poder cambiar ala rama master o central 
+---------------------------------------
+git add . :para poder meter todo los archivos y no solo en 1 por 1 
+----------------------------------------
+git push -u origin master :para poder colocarlo en el repositorio de hithub
 -----------------------------------------
 git pull :
 -----------------------------------------
