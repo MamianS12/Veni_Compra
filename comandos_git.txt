@@ -1,0 +1,31 @@
+git init  :inicializa git
+----------------------------------------
+git add "nombre_del_archivo"  :agrega los archivos del proyecto
+-----------------------------------------
+git status :sirve para saber que archivos tenemos o estamos trabajando
+-----------------------------------------
+git commit 
+
+: inicializa el primer paso
+
+ git config --global user.email "aragon.steven.edu@gmail.com"
+
+ git config --global user.name "steven"
+
+:configura el correo y el usuario luego en la consola nueva undir i para poder escribir un nombre del commit
+
+y para seguir undir escape :wq
+-------------------------------------------
+git checkout -- INDEX.HTML :o el nombre del archivo" :para volver ala version anterior recordar el espacio del --  
+-------------------------------------------
+git diff INDEX.HTML :o el nombre del archivo, sirve para ver que se a cambiado o agregado o quitado del archivo
+-------------------------------------------
+git log : para mirar que version del programa esta y cuando se realizo los cambios
+-----------------------------------------
+git push :
+-----------------------------------------
+git pull :
+-----------------------------------------
+git clone :
+
+
