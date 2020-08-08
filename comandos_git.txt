@@ -1,3 +1,6 @@
+
+undir clik derecho y git bast here en la carpeta
+------------------------------------
 git init  :inicializa git
 ----------------------------------------
 git add "nombre_del_archivo"  :agrega los archivos del proyecto
@@ -21,11 +24,14 @@ git checkout -- INDEX.HTML :o el nombre del archivo" :para volver ala version an
 git diff INDEX.HTML :o el nombre del archivo, sirve para ver que se a cambiado o agregado o quitado del archivo
 -------------------------------------------
 git log : para mirar que version del programa esta y cuando se realizo los cambios
+-------------------------------------------
+git commit -m "algun comentario" :sirve para ponerle algun comentario al commit
 -----------------------------------------
 git push :
 -----------------------------------------
 git pull :
 -----------------------------------------
 git clone :
-
-
+----------------------------------------
+si se inicia un archivo .gitignore
+: ignora la carpeta o archivo 
