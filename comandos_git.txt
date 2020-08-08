@@ -39,7 +39,7 @@ git remote add origin https://github.com/evolunnner/dsdd.git :para poder que el 
 ----------------------------------------
 git push -u origin master :para poder colocarlo en el repositorio de hithub
 -----------------------------------------
-git pull :
+git pull :Para poder fusionar todos los cambios que se han hecho en el repositorio local trabajando, el comando que se usa es:
 -----------------------------------------
 git clone :
 ----------------------------------------
