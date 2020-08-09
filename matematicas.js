@@ -1,3 +1,5 @@
+
+/*funciones matematicas*/
 function add0(m1, m2) {
     return m1 + m2;
 }
@@ -11,10 +13,8 @@ function add2(m1, m2) {
     return m1 * m2;
 }
 
-function add3(m1, m2){
-
-return m1/m2;
-
+function add3(m1, m2) {
+    return m1 / m2;
 }
 
 
