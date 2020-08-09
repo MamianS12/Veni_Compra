@@ -45,8 +45,9 @@ git clone :
 ----------------------------------------
 si se inicia un archivo .gitignore
 : ignora la carpeta o archivo 
-
-
+-----------------------------------
+git remote remove origin
+-----------------------------------
 COMANDOS BASICOS 
 * git init Oye Git, voy a usar estos documentos contigo ¿vale?
 * git add <file> Pasa los docs a staging area 
