@@ -18,7 +18,7 @@ return m1/m2;
 }
 
 
-
+/*exportando las funciones*/
 exports.add0 = add0;
 exports.add1 = add1;
 exports.add2 = add2;
